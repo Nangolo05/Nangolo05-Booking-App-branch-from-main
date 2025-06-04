@@ -1,0 +1,23 @@
+haircut-booking-app/
+├── App.js
+├── assets/
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── barber1.jpg
+│   │   └── ...
+├── components/
+│   ├── BarberCard.js
+│   ├── BookingButton.js
+│   ├── ServiceCard.js
+│   ├── TimeSlotPicker.js
+│   └── styles/
+│       └── commonStyles.js
+├── screens/
+│   ├── HomeScreen.js
+│   ├── BarberListScreen.js
+│   ├── ServiceSelectionScreen.js
+│   ├── BookingScreen.js
+│   ├── ConfirmationScreen.js
+│   └── ProfileScreen.js
+└── navigation/
+    └── AppNavigator.js
